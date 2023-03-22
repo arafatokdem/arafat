@@ -1,0 +1,2 @@
+# arafat
+Takipçi kazanma 
